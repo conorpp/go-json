@@ -1,4 +1,4 @@
-package json_test
+package sonic_test
 
 import (
 	"bytes"
@@ -18,7 +18,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 func Test_Decoder(t *testing.T) {

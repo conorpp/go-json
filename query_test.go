@@ -1,11 +1,11 @@
-package json_test
+package sonic_test
 
 import (
 	"context"
 	"reflect"
 	"testing"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 type queryTestX struct {

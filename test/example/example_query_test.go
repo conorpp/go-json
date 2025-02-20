@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 type User struct {

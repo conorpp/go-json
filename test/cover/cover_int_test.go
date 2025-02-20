@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 func TestCoverInt(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 func ExampleMarshal() {

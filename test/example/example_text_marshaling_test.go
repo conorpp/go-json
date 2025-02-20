@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 type Size int

@@ -1,4 +1,4 @@
-package json
+package sonic
 
 import (
 	"github.com/bytedance/sonic/internal/errors"

@@ -1,4 +1,4 @@
-package json_test
+package sonic_test
 
 import (
 	"bytes"
@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bytedance/sonic"
+	json "github.com/bytedance/sonic"
 )
 
 type recursiveT struct {
