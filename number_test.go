@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/goccy/go-json"
+	"github.com/bytedance/sonic"
 )
 
 func TestNumberIsValid(t *testing.T) {

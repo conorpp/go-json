@@ -7,7 +7,7 @@ package json_test
 import (
 	"testing"
 
-	"github.com/goccy/go-json"
+	"github.com/bytedance/sonic"
 )
 
 type basicLatin2xTag struct {

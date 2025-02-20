@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/goccy/go-json"
+	"github.com/bytedance/sonic"
 )
 
 func TestExtractPath(t *testing.T) {
